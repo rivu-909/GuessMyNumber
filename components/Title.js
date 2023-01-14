@@ -13,5 +13,6 @@ const styles = StyleSheet.create({
     padding: 12,
     color: "white",
     borderColor: "white",
+    maxWidth: "80%",
   },
 });
